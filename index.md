@@ -16,3 +16,9 @@ function reviewFilesFor(bookFolder) {
     .map((f) => path.join(dir, f)); // return full paths
 }
 ```
+## Task List
+
+- [x] Github intro
+- [ ] Markdowm intro
+- [ ] pull request review
+- [ ] merge conflicts
